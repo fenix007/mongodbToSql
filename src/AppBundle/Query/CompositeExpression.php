@@ -4,11 +4,6 @@ namespace AppBundle\Query;
 
 /**
  * Composite expression is responsible to build a group of similar expression.
- *
- * @link   www.doctrine-project.org
- * @since  2.1
- * @author Guilherme Blanco <guilhermeblanco@hotmail.com>
- * @author Benjamin Eberlei <kontakt@beberlei.de>
  */
 class CompositeExpression implements \Countable
 {
